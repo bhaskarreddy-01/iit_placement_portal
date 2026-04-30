@@ -1,4 +1,4 @@
-# 📊 IIT Placement Analytics Portal
+#  IIT Placement Analytics Portal
 
 ## 1. PROJECT OVERVIEW
 
